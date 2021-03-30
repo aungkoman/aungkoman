@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on https://mmsoftware100.com
+- 🌱 I’m currently learning Mobile App Development.
+- 👯 I’m looking to collaborate on Web Based Solutions.
+- 🤔 I’m looking for help with Project Management.
+- 💬 Ask me about Programming.
+- 📫 How to reach me: aungkoman@gmail.com
+- ⚡ Fun fact: I'm programmer, son, big brother and lover too.
 <!--
 **aungkoman/aungkoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
