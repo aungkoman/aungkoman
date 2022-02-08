@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Project Management.
 - 💬 Ask me about Programming.
 - 📫 How to reach me: aungkoman@gmail.com
-- ⚡ Fun fact: I'm programmer, son, big brother and lover too.
+- ⚡ Fun fact: I'm a programmer, son, big brother and husband too.
 
 [![Ko Man's Github Stats](https://github-readme-stats.vercel.app/api?username=aungkoman)](https://github.com/aungkoman)
 <!--
